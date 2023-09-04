@@ -1,0 +1,9 @@
+{
+  "Tags": [
+    {
+      "Key": "DEV"
+    }
+  ],
+  "SeparateRuntimeDependencies": false,
+  "IncludeSources": true
+}
